@@ -18,3 +18,6 @@ mod utils;
 
 // Test modules
 mod tests;
+
+// Comparison Operations
+mod comparison_operations;
